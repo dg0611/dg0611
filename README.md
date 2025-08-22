@@ -45,5 +45,5 @@ Descrição   | Instituição   | Ano | Tipo
 <div align="center">
   <a href="https://github.com/dg0611">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dg0611&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg0611&layout=compact&langs_count=6&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dg0611&layout=compact&langs_count=6&theme=dark&?cache_seconds=1"/>
 </div>
